@@ -2,7 +2,7 @@
 
 <h1 align="left" style="border: none!important;">Lsky Pro+ 主题仓库</h1>
 
-兰空图床付费版本从 `V 2.3.0` 开始提供主题功能，允许开发者轻松的自定义主题，有关主题的开发文档请访问 [https://www.lsky.pro/docs/advanced/theme](https://www.lsky.pro/docs/advanced/theme)。
+兰空图床付费版本从 `V 2.3.0` 开始提供主题功能，允许开发者轻松的自定义主题，有关主题的开发文档请访问 [https://lsky.pro/docs/advanced/theme](https://lsky.pro/docs/advanced/theme)。
 
 ## 已收录主题
 
@@ -53,4 +53,4 @@
    - 在 GitHub 上创建 Pull Request
    - 详细描述主题特点和功能
 
-所有提交后的主题将会在官方网站的[主题列表](https://www.lsky.pro/themes)页面展示。感谢您为 Lsky Pro+ 社区做出的贡献！
+所有提交后的主题将会在官方网站的[主题列表](https://lsky.pro/themes)页面展示。感谢您为 Lsky Pro+ 社区做出的贡献！
